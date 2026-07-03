@@ -24,8 +24,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vkrana-me&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vijendra's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkrana-me&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vkrana-me&theme=tokyonight" alt="Vijendra's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vkrana-me&theme=tokyonight" alt="Top languages" />
 </div>
 
 <div align="center">
