@@ -14,17 +14,10 @@
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=vkrana-me&label=Profile%20views&color=7AA2F7&style=flat" alt="Profile views" />
+
+  <p><sub>Know me from your terminal 👉</sub></p>
+  <p><code>npx vkrana-me info</code></p>
 </div>
-
----
-
-## 🖥️ Run my CLI
-
-Get to know me right from your terminal:
-
-```bash
-npx vkrana-me info
-```
 
 ---
 
