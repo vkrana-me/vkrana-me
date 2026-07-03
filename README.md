@@ -18,43 +18,13 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🖥️ Run my CLI
 
-A **Creative Developer** based in **Bengaluru, India** with **10+ years** crafting digital experiences. Curious by nature — I love exploring new tech and building things that ship.
+Get to know me right from your terminal:
 
-- 🔭 &nbsp;Currently building **AI agents & LLM applications**
-- 🌱 &nbsp;Deep into **Gen AI, knowledge graphs, MCP & A2A protocols**
-- 🕸️ &nbsp;Also into **web scraping** and automation pipelines
-- 🌐 &nbsp;Portfolio, articles & learning series → **[vkrana.me](https://vkrana.me)**
-- 💬 &nbsp;Ask me about **React, Astro, Node.js, LangChain & building with LLMs**
-- ⚡ &nbsp;Fun fact: *life-time learner* — always shipping, always learning
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**AI / ML & Tooling**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white)
-![FireCrawl](https://img.shields.io/badge/FireCrawl-FF5722?style=flat-square&logo=firebase&logoColor=white)
+```bash
+npx vkrana-me info
+```
 
 ---
 
